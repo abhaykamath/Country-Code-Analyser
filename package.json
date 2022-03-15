@@ -1,0 +1,15 @@
+{
+  "name": "country_code_analyser",
+  "version": "1.0.0",
+  "description": "Node JS Program to get an insight into country codes",
+  "main": "script.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node script"
+  },
+  "author": "Abhay",
+  "license": "MIT"
+}
